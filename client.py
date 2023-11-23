@@ -1,10 +1,10 @@
+# client.py
 import socket
 
 
 def send_request(request):
     UDP_IP = "127.0.0.1"
     UDP_PORT = 5005
-
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     client_socket.sendto(request.encode(), (UDP_IP, UDP_PORT))
     client_socket.close()
