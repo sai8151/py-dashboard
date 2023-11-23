@@ -20,7 +20,7 @@ To run this project, ensure you have Python 3 installed on your system.
    ```bash
    git clone https://github.com/your-username/udp-client-server.git
 
-  python3 user_manager.py
+   python3 user_manager.py
    ```
 
 2. Run the UDP server:
