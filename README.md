@@ -19,18 +19,20 @@ To run this project, ensure you have Python 3 installed on your system.
 
    ```bash
    git clone https://github.com/your-username/udp-client-server.git
+
+  python3 
    ```
 
 2. Run the UDP server:
 
    ```bash
-   python udp_server.py
+   python3 server.py
    ```
 
 3. Run the UDP client:
 
    ```bash
-   python udp_client.py
+   python3 client.py
    ```
 
 4. Choose from the available options to perform actions like login, register, delete account, update user, and monitor the database.
