@@ -15,11 +15,9 @@ To run this project, ensure you have Python 3 installed on your system.
 
 ## How to Use
 
-1. Clone the repository to your local machine:
+1. Run the module:
 
    ```bash
-   git clone https://github.com/your-username/udp-client-server.git
-
    python3 user_manager.py
    ```
 
