@@ -1,7 +1,7 @@
 # UDP Client-Server Interaction System
 
-This project demonstrates a basic UDP client-server interaction system for managing user actions and administrative tasks.
-
+This project demonstrates a basic UDP client-server interaction system for managing user actions and administrative tasks.<br>
+Make sure you have python3 installed.
 ## Overview
 
 The system consists of two components:
